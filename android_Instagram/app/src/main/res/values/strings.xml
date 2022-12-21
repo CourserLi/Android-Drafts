@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Instagram Login UI</string>
+
+    <string name="facebook_app_id">554494931859381</string>
+    <string name="fb_login_protocol_scheme">fb554494931859381</string>
+
+</resources>
